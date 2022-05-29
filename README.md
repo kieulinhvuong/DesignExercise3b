@@ -11,5 +11,4 @@
 ###### If satify both criterias -> approved
 ###### If not satify any critea -> not approved
 
-## Search first name 
-###### Name contains first name and last name. Many people can have the same first name -> when return information, it returns the information of all people having the first name being searched
+
